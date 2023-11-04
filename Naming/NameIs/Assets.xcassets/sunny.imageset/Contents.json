@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "4974BD16-F16D-41FD-B1D1-2DDAA71B2F3F.jpeg",
+      "filename" : "sunny.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "4974BD16-F16D-41FD-B1D1-2DDAA71B2F3F 1.jpeg",
+      "filename" : "sunny 1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "4974BD16-F16D-41FD-B1D1-2DDAA71B2F3F 2.jpeg",
+      "filename" : "sunny 2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
